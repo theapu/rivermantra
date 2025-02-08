@@ -1,0 +1,27 @@
+# Sample Authors
+# Remove file or replace with your own
+
+# Billy Rick:
+#   name: Billy Rick
+#   picture: /images/bio-photo-2.jpg
+#   twitter: "@billyrick"
+#   links:
+#     - title: Twitter
+#       url: https://twitter.com/billyrick
+#       icon: fab fa-twitter-square
+
+# Cornelius Fiddlebone:
+#   name: Cornelius Fiddlebone
+#   picture: /images/bio-photo.jpg
+#   twitter: corneliusfiddlebone
+
+River Mantra:
+  name: River Mantra
+  picture: /images/river-mantra-biopic.png
+  links:
+    - title: Twitter
+      url: https://twitter.com/rivermantra
+      icon: fab fa-twitter-square
+    - title: Instagram
+      url: https://instagram.com/rivermantra
+      icon: fab fa-instagram-square
