@@ -10,9 +10,9 @@ tags:
   - product
 carousels:
   - images: 
-    - image: /slider/president/president1.jpg
-    - image: /slider/president/president2.jpg
-    - image: /slider/president/president3.jpg
+    - image: /rivermantra/slider/president/president1.jpg
+    - image: /rivermantra/slider/president/president2.jpg
+    - image: /rivermantra/slider/president/president3.jpg
 image:
   thumbnail: /slider/president/president1.jpg
 type: product
