@@ -85,6 +85,12 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+# Collections
+collections:
+  blog:
+    output: true
+    permalink: /:collection/:path/  
+
 # Front Matter Defaults
 defaults:
   # Posts defaults
@@ -94,6 +100,14 @@ defaults:
     values:
       layout: post
       share: true
+  # Blog defaults
+  - scope:
+      path: "_blog"
+      type: blog
+    values:
+      layout: post
+      comments: true
+      share: true       
 
 # Site Author
 author:
