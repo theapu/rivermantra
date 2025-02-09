@@ -10,9 +10,9 @@ tags:
   - product
 carousels:
   - images: 
-    - image: /rivermantra/slider/original_unni/original_unni1.jpg
-    - image: /rivermantra/slider/original_unni/original_unni2.jpg
-    - image: /rivermantra/slider/original_unni/original_unni3.jpg
+    - image: /slider/original_unni/original_unni1.jpg
+    - image: /slider/original_unni/original_unni2.jpg
+    - image: /slider/original_unni/original_unni3.jpg
 image:
   thumbnail: /slider/original_unni/original_unni1.jpg
 type: product

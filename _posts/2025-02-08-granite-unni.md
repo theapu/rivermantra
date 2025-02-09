@@ -10,9 +10,9 @@ tags:
   - product
 carousels:
   - images: 
-    - image: /rivermantra/slider/granite_unni/granite_unni1.jpg
-    - image: /rivermantra/slider/granite_unni/granite_unni2.jpg
-    - image: /rivermantra/slider/granite_unni/granite_unni3.jpg
+    - image: /slider/granite_unni/granite_unni1.jpg
+    - image: /slider/granite_unni/granite_unni2.jpg
+    - image: /slider/granite_unni/granite_unni3.jpg
 image:
   thumbnail: /slider/granite_unni/granite_unni1.jpg
 type: product

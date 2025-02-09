@@ -46,6 +46,10 @@ twitter:
 liquid:
   error_mode: strict
 
+#sass
+sass:
+  quiet_deps: true
+
 # Build settings
 permalink: /:categories/:title/
 markdown: kramdown
