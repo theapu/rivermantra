@@ -1,15 +1,15 @@
 {
-  "name": "jekyll-theme-so-simple",
+  "name": "jekyll-theme-rm",
   "description": "A simple Jekyll theme for words and pictures.",
-  "version": "3.2.0",
-  "author": "Michael Rose",
-  "homepage": "http://mmistakes.github.io/so-simple-theme/",
+  "version": "1.0.0",
+  "author": "Apu V",
+  "homepage": "http://theapu.github.io/rivermantra/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/so-simple-theme.git"
+    "url": "git://github.com/theapu/rivermantra.git"
   },
   "bugs": {
-    "url": "https://github.com/mmistakes/so-simple-theme/issues"
+    "url": "https://github.com/theapu/rivermantra/issues"
   },
   "keywords": [
     "jekyll",
